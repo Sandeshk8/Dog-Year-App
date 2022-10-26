@@ -8,7 +8,7 @@ A simple app made in kotlin which convert dog years to human years.
 
 
 
-![](https://i.imgur.com/yaTH87E.mp4)
+![](https://i.imgur.com/yaTH87E.mp4](https://media1.tenor.com/images/b77f1fd1596477577e84671a8ccf377a/tenor.gif?itemid=26993269)
 
 ## Screenshots
 
